@@ -430,7 +430,7 @@
 								"codedeploy:GetApplicationRevision"
 							],
 							"Resource": [
-								"arn:aws:codedeploy:us-east-1:387959445787:application:webapp"
+								"*"
 							]
 						},
 						{
