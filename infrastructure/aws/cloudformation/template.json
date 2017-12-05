@@ -269,7 +269,7 @@
 			"Properties": {
 				"Certificates": [
 					{
-						"CertificateArn": "arn:aws:acm:us-east-1:280829830563:certificate/7bf20799-e3e9-41d4-b139-c71d7a60d0ce"
+						"CertificateArn": " arn:aws:acm:us-east-1:387959445787:certificate/7fd2fb32-46e5-4ca5-bf28-83c274e044c4"
 					}
 				],
 				"DefaultActions": [
